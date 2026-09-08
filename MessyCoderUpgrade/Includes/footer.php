@@ -1,0 +1,1 @@
+© <?php print date('Y'); ?> Swarley & CO
